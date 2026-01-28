@@ -16,6 +16,14 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+  textSize(46);
+  fill (8,142,204);
+  text("maya",114,120);
+
+  textSize(18);
+  fill(108,45,204);
+  text("i love music",80,154);
+
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
